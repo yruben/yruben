@@ -2,7 +2,7 @@
 - 👀 I’m interested in everithing related to software development, and creating incredible things that makes our lives better.
 - 🌱 I’m currently learning more about GOOD PRACTICES in software development, and leadership with my own startup.
 - 💞️ I’m looking to collaborate on every interesting project to help people to go beyond limits.
-- 📫 How to reach me??? I’m active on twitter(@yainiermr) and linkedin(https://www.linkedin.com/in/yruben).
+- 📫 How to reach me??? I’m active on twitter(@yainiermr) and linkedin(https://www.linkedin.com/in/yainiermr).
 
 <!---
 yruben/yruben is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
