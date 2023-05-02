@@ -15,7 +15,7 @@
 I natively speak Spanish and have fluent professional English. I love learning new languages.
 
 ## How to reach me???
-- You can hit me up for anything you need on my [Telegram](https://t.me/yainiermr),
+- You can hit me up for anything you need on my [Telegram](https://t.me/yainier_mr),
 - 📫 I’m active on [twitter](@yainiermr) and [linkedin](https://www.linkedin.com/in/yainiermr).
 - Also, my email adress is yainier.mr@gmail.com.
 
