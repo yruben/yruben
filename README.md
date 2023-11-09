@@ -8,6 +8,18 @@
 - 📫 I'm planning to start writing about technology (coming soon)...
 
 ## Main technologies I work with
+<div style="display: inline_block"><br>
+  <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Yii" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yii/yii-original.svg">
+  <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="Symfony" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">   
+
+</div>
+<br/>
 - 👀 I mostly work with **PHP**, **JavaScript** and **Java**, with backend and fronted frameworks like **Laravel**, **Symfony**, **Express**, **NestJS**, **SpringBoot** and somtimes I play with frontend techs.
 - 📫 I read a lot about technology, and I love coding as a hobby.
 
